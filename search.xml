@@ -1,65 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>HarmonyOS</title>
-    <url>/2020/12/07/HarmonyOS/</url>
-    <content><![CDATA[<h2 id="1-华为鸿蒙OS"><a href="#1-华为鸿蒙OS" class="headerlink" title="1.华为鸿蒙OS"></a>1.华为鸿蒙OS</h2><p>先贴个华为HM 镇楼 链接: <a href="https://hmxt.org/">https://hmxt.org/</a></p>
-<p>我这里演示的是windows版本，大家根据自己电脑下载对应版本</p>
-<h2 id="2-下载鸿蒙编辑器Deveco-Studio"><a href="#2-下载鸿蒙编辑器Deveco-Studio" class="headerlink" title="2.下载鸿蒙编辑器Deveco-Studio"></a>2.下载鸿蒙编辑器Deveco-Studio</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">编辑器下载地址：https://hmxt.org/deveco-studio</span><br></pre></td></tr></table></figure>
-<p>这个是下载好的样子</p>
-<img src="https://www.zpzpup.com/assets/image/HM/huawei01.png" alt="编辑器">
-
-<p>接虾子 我们来安装</p>
-<img src="https://www.zpzpup.com/assets/image/HM/huawei02.png" alt="编辑器">
-
-<p>安装好后是这样滴，细节吧</p>
-<img src="https://www.zpzpup.com/assets/image/HM/huawei03.png" alt="编辑器">
-
-
-<h2 id="3-启动编辑器"><a href="#3-启动编辑器" class="headerlink" title="3.启动编辑器"></a>3.启动编辑器</h2><img src="https://www.zpzpup.com/assets/image/HM/huawei04.png" alt="编辑器">
-
-<p>咋们这里默认就不导入配置了，毕竟第一次嘛</p>
-<img src="https://www.zpzpup.com/assets/image/HM/huawei05.png" alt="编辑器">
-
-<p>不管咋样，同意了在说</p>
-<img src="https://www.zpzpup.com/assets/image/HM/huawei06.png" alt="编辑器">
-
-<p>然后下一步下一步</p>
-<img src="https://www.zpzpup.com/assets/image/HM/huawei07.png" alt="编辑器">
-
-<p>终于到了最后<br><img src="https://www.zpzpup.com/assets/image/HM/huawei08.png" alt="编辑器"></p>
-<h2 id="3-创建一个项目"><a href="#3-创建一个项目" class="headerlink" title="3.创建一个项目"></a>3.创建一个项目</h2><p>这里我创建了一个手环的列表页项目<br><img src="https://www.zpzpup.com/assets/image/HM/huawei09.png" alt="编辑器"></p>
-<p>然后输入自己的目录把项目创建好<br><img src="https://www.zpzpup.com/assets/image/HM/huawei10.png" alt="编辑器"></p>
-<h2 id="4-登录华为账号"><a href="#4-登录华为账号" class="headerlink" title="4.登录华为账号"></a>4.登录华为账号</h2><p>绑定好自己的信息</p>
-<img src="https://www.zpzpup.com/assets/image/HM/huawei11.png" alt="编辑器">
-
-<p>中间漏了一些小细节 不过都很简单 绑定信息 这个应该没有太大问题吧（ - - ）</p>
-<h2 id="5-项目启动"><a href="#5-项目启动" class="headerlink" title="5.项目启动"></a>5.项目启动</h2><p>我创建的这个项目是用js写滴，编译的话 还需要提前安装node环境（这个就很简单了，你们懂的）<br><img src="https://www.zpzpup.com/assets/image/HM/huawei12.png" alt="编辑器"></p>
-<p>启动项目后还需要登录账户，完成一个客户端的绑定<br><img src="https://www.zpzpup.com/assets/image/HM/huawei13.png" alt="编辑器"></p>
-<p>允许完成授权后，可以用快捷键（shift+F10）打开 Select Deployment Target界面， 选择完成后同意</p>
-<img src="https://www.zpzpup.com/assets/image/HM/huawei18.png" alt="编辑器">
-
-<img src="https://www.zpzpup.com/assets/image/HM/huawei14.png" alt="编辑器">
-
-<p>然后可以启动这个小手表</p>
-<img src="https://www.zpzpup.com/assets/image/HM/huawei15.png" alt="编辑器">
-
-<p>这里就可以看见自己修改后的hello world了 （编辑器右边还有个小眼睛按钮也可以看哟）</p>
-<img src="https://www.zpzpup.com/assets/image/HM/huawei17.png" alt="编辑器">
-
-<p>不过这里有点小坑（代码需要同步后，重新打包才可以看到自己编辑代码的页面，注意一下就可以了）</p>
-<img src="https://www.zpzpup.com/assets/image/HM/huawei16.png" alt="编辑器">
-
-<p>到这里一个完整的Hello World就完成了 (有木有小激动 O(∩_∩)O哈哈~)</p>
-]]></content>
-      <categories>
-        <category>HarmonyOS</category>
-      </categories>
-      <tags>
-        <tag>HarmonyOS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Git</title>
     <url>/2021/02/22/Git/</url>
     <content><![CDATA[<h2 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h2><img src="https://www.zpzpup.com/assets/image/npm/git01.jpg" alt="下载安装包">
@@ -155,6 +96,207 @@
       </categories>
       <tags>
         <tag>Git</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>HarmonyOS</title>
+    <url>/2020/12/07/HarmonyOS/</url>
+    <content><![CDATA[<h2 id="1-华为鸿蒙OS"><a href="#1-华为鸿蒙OS" class="headerlink" title="1.华为鸿蒙OS"></a>1.华为鸿蒙OS</h2><p>先贴个华为HM 镇楼 链接: <a href="https://hmxt.org/">https://hmxt.org/</a></p>
+<p>我这里演示的是windows版本，大家根据自己电脑下载对应版本</p>
+<h2 id="2-下载鸿蒙编辑器Deveco-Studio"><a href="#2-下载鸿蒙编辑器Deveco-Studio" class="headerlink" title="2.下载鸿蒙编辑器Deveco-Studio"></a>2.下载鸿蒙编辑器Deveco-Studio</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">编辑器下载地址：https://hmxt.org/deveco-studio</span><br></pre></td></tr></table></figure>
+<p>这个是下载好的样子</p>
+<img src="https://www.zpzpup.com/assets/image/HM/huawei01.png" alt="编辑器">
+
+<p>接虾子 我们来安装</p>
+<img src="https://www.zpzpup.com/assets/image/HM/huawei02.png" alt="编辑器">
+
+<p>安装好后是这样滴，细节吧</p>
+<img src="https://www.zpzpup.com/assets/image/HM/huawei03.png" alt="编辑器">
+
+
+<h2 id="3-启动编辑器"><a href="#3-启动编辑器" class="headerlink" title="3.启动编辑器"></a>3.启动编辑器</h2><img src="https://www.zpzpup.com/assets/image/HM/huawei04.png" alt="编辑器">
+
+<p>咋们这里默认就不导入配置了，毕竟第一次嘛</p>
+<img src="https://www.zpzpup.com/assets/image/HM/huawei05.png" alt="编辑器">
+
+<p>不管咋样，同意了在说</p>
+<img src="https://www.zpzpup.com/assets/image/HM/huawei06.png" alt="编辑器">
+
+<p>然后下一步下一步</p>
+<img src="https://www.zpzpup.com/assets/image/HM/huawei07.png" alt="编辑器">
+
+<p>终于到了最后<br><img src="https://www.zpzpup.com/assets/image/HM/huawei08.png" alt="编辑器"></p>
+<h2 id="3-创建一个项目"><a href="#3-创建一个项目" class="headerlink" title="3.创建一个项目"></a>3.创建一个项目</h2><p>这里我创建了一个手环的列表页项目<br><img src="https://www.zpzpup.com/assets/image/HM/huawei09.png" alt="编辑器"></p>
+<p>然后输入自己的目录把项目创建好<br><img src="https://www.zpzpup.com/assets/image/HM/huawei10.png" alt="编辑器"></p>
+<h2 id="4-登录华为账号"><a href="#4-登录华为账号" class="headerlink" title="4.登录华为账号"></a>4.登录华为账号</h2><p>绑定好自己的信息</p>
+<img src="https://www.zpzpup.com/assets/image/HM/huawei11.png" alt="编辑器">
+
+<p>中间漏了一些小细节 不过都很简单 绑定信息 这个应该没有太大问题吧（ - - ）</p>
+<h2 id="5-项目启动"><a href="#5-项目启动" class="headerlink" title="5.项目启动"></a>5.项目启动</h2><p>我创建的这个项目是用js写滴，编译的话 还需要提前安装node环境（这个就很简单了，你们懂的）<br><img src="https://www.zpzpup.com/assets/image/HM/huawei12.png" alt="编辑器"></p>
+<p>启动项目后还需要登录账户，完成一个客户端的绑定<br><img src="https://www.zpzpup.com/assets/image/HM/huawei13.png" alt="编辑器"></p>
+<p>允许完成授权后，可以用快捷键（shift+F10）打开 Select Deployment Target界面， 选择完成后同意</p>
+<img src="https://www.zpzpup.com/assets/image/HM/huawei18.png" alt="编辑器">
+
+<img src="https://www.zpzpup.com/assets/image/HM/huawei14.png" alt="编辑器">
+
+<p>然后可以启动这个小手表</p>
+<img src="https://www.zpzpup.com/assets/image/HM/huawei15.png" alt="编辑器">
+
+<p>这里就可以看见自己修改后的hello world了 （编辑器右边还有个小眼睛按钮也可以看哟）</p>
+<img src="https://www.zpzpup.com/assets/image/HM/huawei17.png" alt="编辑器">
+
+<p>不过这里有点小坑（代码需要同步后，重新打包才可以看到自己编辑代码的页面，注意一下就可以了）</p>
+<img src="https://www.zpzpup.com/assets/image/HM/huawei16.png" alt="编辑器">
+
+<p>到这里一个完整的Hello World就完成了 (有木有小激动 O(∩_∩)O哈哈~)</p>
+]]></content>
+      <categories>
+        <category>HarmonyOS</category>
+      </categories>
+      <tags>
+        <tag>HarmonyOS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CentOS7安装Nginx</title>
+    <url>/2020/09/21/Nginx/</url>
+    <content><![CDATA[<h2 id="1-下载Nginx安装包"><a href="#1-下载Nginx安装包" class="headerlink" title="1.下载Nginx安装包"></a>1.下载Nginx安装包</h2><ol>
+<li><p>官网下载安装包</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">直接下载.tar.gz安装包，地址：https://nginx.org/en/download.html</span><br></pre></td></tr></table></figure>
+<img src="https://www.zpzpup.com/assets/image/nginx/nginx01.png" alt="下载安装包">
+</li>
+<li><p>命令行下载安装包</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">wget -c https://nginx.org/download/nginx-1.18.0.tar.gz // 可切换至 /usr 目录下载</span><br></pre></td></tr></table></figure></li>
+</ol>
+<h2 id="2-解压"><a href="#2-解压" class="headerlink" title="2.解压"></a>2.解压</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">// 解压</span><br><span class="line">tar -zxvf nginx-1.18.0.tar.gz  </span><br><span class="line">// 切换到nginx目录</span><br><span class="line">cd nginx-1.18.0</span><br></pre></td></tr></table></figure>
+
+<h2 id="3-配置"><a href="#3-配置" class="headerlink" title="3.配置"></a>3.配置</h2><p>1.使用默认配置（推荐）</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">./configure</span><br></pre></td></tr></table></figure>
+<img src="https://www.zpzpup.com/assets/image/nginx/nginx02.png" alt="使用默认配置">
+
+<p>错误为：.&#x2F;configure: error: the HTTP rewrite module requires the PCRE library.</p>
+<img src="https://www.zpzpup.com/assets/image/nginx/nginx-err01.png" alt="错误">
+
+<p>安装pcre-devel解决问题</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yum -y install pcre-devel</span><br></pre></td></tr></table></figure>
+<p>还有可能出现：</p>
+<p>错误提示：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">./configure: error: the HTTP cache module requires md5 functions</span><br><span class="line">from OpenSSL library.   You can either disable the module by using</span><br><span class="line">--without-http-cache option, or install the OpenSSL library into the system,</span><br><span class="line">or build the OpenSSL library statically from the source with nginx by using</span><br><span class="line">--with-http_ssl_module --with-openssl=&lt;path&gt; options.</span><br></pre></td></tr></table></figure>
+
+<p>解决办法：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yum -y install openssl openssl-devel</span><br></pre></td></tr></table></figure>
+
+<p>2.自定义配置（不推荐）</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">./configure \</span><br><span class="line">--prefix=/usr/local/nginx \</span><br><span class="line">--conf-path=/usr/local/nginx/conf/nginx.conf \</span><br><span class="line">--pid-path=/usr/local/nginx/conf/nginx.pid \</span><br><span class="line">--lock-path=/var/lock/nginx.lock \</span><br><span class="line">--error-log-path=/var/log/nginx/error.log \</span><br><span class="line">--http-log-path=/var/log/nginx/access.log \</span><br><span class="line">--with-http_gzip_static_module \</span><br><span class="line">--http-client-body-temp-path=/var/temp/nginx/client \</span><br><span class="line">--http-proxy-temp-path=/var/temp/nginx/proxy \</span><br><span class="line">--http-fastcgi-temp-path=/var/temp/nginx/fastcgi \</span><br><span class="line">--http-uwsgi-temp-path=/var/temp/nginx/uwsgi \</span><br><span class="line">--http-scgi-temp-path=/var/temp/nginx/scgi</span><br><span class="line">注：将临时文件目录指定为/var/temp/nginx，需要在/var下创建temp及nginx目录</span><br></pre></td></tr></table></figure>
+
+<h2 id="4-编译安装"><a href="#4-编译安装" class="headerlink" title="4.编译安装"></a>4.编译安装</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">make</span><br><span class="line">make install</span><br></pre></td></tr></table></figure>
+<img src="https://www.zpzpup.com/assets/image/nginx/nginx03.png">
+
+<img src="https://www.zpzpup.com/assets/image/nginx/nginx04.png">
+
+<p>查找安装路径</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">whereis nginx</span><br></pre></td></tr></table></figure>
+<img src="https://www.zpzpup.com/assets/image/nginx/nginx05.png">
+
+<p>启动、停止nginx</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">cd /usr/local/nginx/sbin/</span><br><span class="line">./nginx </span><br><span class="line">./nginx -s stop</span><br><span class="line">./nginx -s quit</span><br><span class="line">./nginx -s reload</span><br><span class="line">./nginx -s quit:此方式停止步骤是待nginx进程处理任务完毕进行停止。</span><br><span class="line">./nginx -s stop:此方式相当于先查出nginx进程id再使用kill命令强制杀掉进程。</span><br></pre></td></tr></table></figure>
+<img src="https://www.zpzpup.com/assets/image/nginx/nginx06.png">
+
+<p>查询nginx进程：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ps aux|grep nginx</span><br></pre></td></tr></table></figure>
+
+<p>重启 nginx</p>
+<p>1.先停止再启动（推荐）：<br>对 nginx 进行重启相当于先停止再启动，即先执行停止命令再执行启动命令。如下：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">./nginx -s </span><br><span class="line">./nginx</span><br></pre></td></tr></table></figure>
+
+<img src="https://www.zpzpup.com/assets/image/nginx/nginx09.png">
+
+<p>2.重新加载配置文件：<br>当 nginx的配置文件 nginx.conf 修改后，要想让配置生效需要重启 nginx，使用-s reload不用先停止 ngin x再启动 nginx 即可将配置信息在 nginx 中生效，如下：<br>.&#x2F;nginx -s reload</p>
+<p>启动成功可以看到</p>
+<h2 id="5-开机自动启动"><a href="#5-开机自动启动" class="headerlink" title="5.开机自动启动"></a>5.开机自动启动</h2><p>即在rc.local增加启动代码就可以了。</p>
+<p>1.vi &#x2F;etc&#x2F;rc.local</p>
+<p>2.i 进行修改</p>
+<p>3.增加一行 &#x2F;usr&#x2F;local&#x2F;nginx&#x2F;sbin&#x2F;nginx</p>
+<p>4.Esc 退出编辑</p>
+<p>5.:wq 报存退出</p>
+<img src="https://www.zpzpup.com/assets/image/nginx/nginx10.png">
+
+<p>6.设置执行权限：<br>chmod 755 rc.local</p>
+]]></content>
+      <categories>
+        <category>Nginx</category>
+      </categories>
+      <tags>
+        <tag>Nginx</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>排序</title>
+    <url>/2019/07/11/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</url>
+    <content><![CDATA[<h2 id="冒泡排序"><a href="#冒泡排序" class="headerlink" title="冒泡排序"></a>冒泡排序</h2><p>通过重复地走访过要排序的数列，一次比较两个元素，如果他们的顺序错误就把他们交换过来。走访数列的工作是重复地进行直到没有再需要交换，也就是说该数列已经排序完成</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">bubbleSort</span>(<span class="params">arr</span>) &#123;</span><br><span class="line">  <span class="keyword">for</span> (<span class="keyword">let</span> i = <span class="number">0</span>; i &lt; arr.<span class="property">length</span> - <span class="number">1</span>; i++) &#123;</span><br><span class="line">    <span class="keyword">for</span> (<span class="keyword">let</span> j = <span class="number">0</span>; j &lt; arr.<span class="property">length</span> - <span class="number">1</span> - i; j++) &#123;</span><br><span class="line">      <span class="keyword">if</span> (arr[j] &gt; arr[j + <span class="number">1</span>]) &#123;</span><br><span class="line">        <span class="keyword">let</span> temp = arr[j]</span><br><span class="line">        arr[j] = arr[j + <span class="number">1</span>]</span><br><span class="line">        arr[j + <span class="number">1</span>] = temp</span><br><span class="line">      &#125;</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="keyword">return</span> arr</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="插入排序"><a href="#插入排序" class="headerlink" title="插入排序"></a>插入排序</h2><p>通过构建有序序列，对于未排序数据，在已排序序列中从后向前扫描，找到相应位置并插入</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">insertion</span>(<span class="params">arr</span>) &#123;</span><br><span class="line">  <span class="keyword">for</span> (<span class="keyword">let</span> i = <span class="number">1</span>; i &lt; arr.<span class="property">length</span>; i++) &#123;</span><br><span class="line">    <span class="keyword">for</span> (<span class="keyword">let</span> j = <span class="number">0</span>; j &lt; i; j++) &#123;</span><br><span class="line">      <span class="keyword">if</span> (arr[j] &gt; arr[i]) &#123;</span><br><span class="line">        arr.<span class="title function_">splice</span>(j, <span class="number">0</span>, arr[i])</span><br><span class="line">        arr.<span class="title function_">splice</span>(i + <span class="number">1</span>, <span class="number">1</span>)</span><br><span class="line">        <span class="keyword">break</span></span><br><span class="line">      &#125;</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="keyword">return</span> arr</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="快速排序"><a href="#快速排序" class="headerlink" title="快速排序"></a>快速排序</h2><ol>
+<li>在数据集之中，选择一个元素作为”基准”（pivot）。</li>
+<li>所有小于”基准”的元素，都移到”基准”的左边；所有大于”基准”的元素，都移到”基准”的右边。</li>
+<li>对”基准”左边和右边的两个子集，不断重复第一步和第二步，直到所有子集只剩下一个元素为止。</li>
+</ol>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">quickSort</span>(<span class="params">arr</span>) &#123;</span><br><span class="line">  <span class="keyword">if</span> (arr.<span class="property">length</span> &lt; <span class="number">2</span>) <span class="keyword">return</span> arr</span><br><span class="line"></span><br><span class="line">  <span class="keyword">const</span> pivot = arr[<span class="number">0</span>]</span><br><span class="line">  <span class="keyword">const</span> left = []</span><br><span class="line">  <span class="keyword">const</span> right = []</span><br><span class="line"></span><br><span class="line">  <span class="keyword">for</span> (<span class="keyword">let</span> i = <span class="number">1</span>; i &lt; arr.<span class="property">length</span>; i++) &#123;</span><br><span class="line">    arr[i] &gt;= pivot &amp;&amp; right.<span class="title function_">push</span>(arr[i])</span><br><span class="line">    arr[i] &lt; pivot &amp;&amp; left.<span class="title function_">push</span>(arr[i])</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">return</span> <span class="title function_">quickSort</span>(left).<span class="title function_">concat</span>(pivot, <span class="title function_">quickSort</span>(right))</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>上面的版本缺点是需要额外的存储器配置，以下为原地（in-place）分割方法</p>
+</blockquote>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">quickSort</span>(<span class="params">arr, left, right</span>) &#123;</span><br><span class="line">  <span class="keyword">let</span> len = arr.<span class="property">length</span></span><br><span class="line">  <span class="keyword">let</span> partitionIndex</span><br><span class="line">  left = <span class="keyword">typeof</span> left !== <span class="string">&#x27;number&#x27;</span> ? <span class="number">0</span> : left</span><br><span class="line">  right = <span class="keyword">typeof</span> right !== <span class="string">&#x27;number&#x27;</span> ? len - <span class="number">1</span> : right</span><br><span class="line"></span><br><span class="line">  <span class="keyword">if</span> (left &lt; right) &#123;</span><br><span class="line">    partitionIndex = <span class="title function_">partition</span>(arr, left, right)</span><br><span class="line"></span><br><span class="line">    <span class="title function_">quickSort</span>(arr, left, partitionIndex - <span class="number">1</span>)</span><br><span class="line"></span><br><span class="line">    <span class="title function_">quickSort</span>(arr, partitionIndex + <span class="number">1</span>, right)</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">return</span> arr</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">function</span> <span class="title function_">partition</span>(<span class="params">arr, left, right</span>) &#123;</span><br><span class="line">  <span class="keyword">let</span> pivot = left</span><br><span class="line">  <span class="keyword">let</span> index = pivot + <span class="number">1</span></span><br><span class="line"></span><br><span class="line">  <span class="keyword">for</span> (<span class="keyword">var</span> i = index; i &lt;= right; i++) &#123;</span><br><span class="line">    <span class="keyword">if</span> (arr[i] &lt; arr[pivot]) &#123;</span><br><span class="line">      <span class="title function_">swap</span>(arr, i, index)</span><br><span class="line">      index++</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="title function_">swap</span>(arr, pivot, index - <span class="number">1</span>)</span><br><span class="line"></span><br><span class="line">  <span class="keyword">return</span> index - <span class="number">1</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">function</span> <span class="title function_">swap</span>(<span class="params">arr, i, j</span>) &#123;</span><br><span class="line">  <span class="keyword">var</span> temp = arr[i]</span><br><span class="line">  arr[i] = arr[j]</span><br><span class="line">  arr[j] = temp</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="选择排序"><a href="#选择排序" class="headerlink" title="选择排序"></a>选择排序</h2><p>首先在未排序序列中找到最小（大）元素，存放到排序序列的起始位置，然后，再从剩余未排序元素中继续寻找最小（大）元素，然后放到已排序序列的末尾。以此类推，直到所有元素均排序完毕</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">selectionSort</span>(<span class="params">arr</span>) &#123;</span><br><span class="line">  <span class="keyword">for</span> (<span class="keyword">let</span> i = <span class="number">0</span>; i &lt; arr.<span class="property">length</span> - <span class="number">1</span>; i++) &#123;</span><br><span class="line">    <span class="keyword">let</span> min = i</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span> (<span class="keyword">let</span> j = i + <span class="number">1</span>; j &lt; arr.<span class="property">length</span>; j++) &#123;</span><br><span class="line">      <span class="keyword">if</span> (arr[min] &gt; arr[j]) &#123;</span><br><span class="line">        min = j</span><br><span class="line">      &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">let</span> temp = arr[min]</span><br><span class="line">    arr[min] = arr[i]</span><br><span class="line">    arr[i] = temp</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">return</span> arr</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="归并排序"><a href="#归并排序" class="headerlink" title="归并排序"></a>归并排序</h2><h1 id="递归法"><a href="#递归法" class="headerlink" title="递归法"></a>递归法</h1><ol>
+<li>把 n 个元素看成 n 个长度为 l 的有序子表</li>
+<li>进行两两归并使记录关键字有序，得到 n&#x2F;2 个长度为 2 的有序子表</li>
+<li>重复第 2 步直到所有记录归并成一个长度为 n 的有序表为止</li>
+</ol>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">mergeSort</span>(<span class="params">arr</span>) &#123;</span><br><span class="line">  <span class="keyword">if</span> (arr.<span class="property">length</span> &lt; <span class="number">2</span>) <span class="keyword">return</span> arr</span><br><span class="line"></span><br><span class="line">  <span class="keyword">function</span> <span class="title function_">merge</span>(<span class="params">left, right</span>) &#123;</span><br><span class="line">    <span class="keyword">let</span> final = []</span><br><span class="line"></span><br><span class="line">    <span class="keyword">while</span> (left.<span class="property">length</span> &amp;&amp; right.<span class="property">length</span>) &#123;</span><br><span class="line">      final.<span class="title function_">push</span>(left[<span class="number">0</span>] &lt;= right[<span class="number">0</span>] ? left.<span class="title function_">shift</span>() : right.<span class="title function_">shift</span>())</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> final.<span class="title function_">concat</span>(left, right)</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">let</span> mid = <span class="title class_">Math</span>.<span class="title function_">floor</span>(arr.<span class="property">length</span> / <span class="number">2</span>)</span><br><span class="line"></span><br><span class="line">  <span class="keyword">return</span> <span class="title function_">merge</span>(<span class="title function_">mergeSort</span>(arr.<span class="title function_">slice</span>(<span class="number">0</span>, mid)), <span class="title function_">mergeSort</span>(arr.<span class="title function_">slice</span>(mid)))</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="计数排序"><a href="#计数排序" class="headerlink" title="计数排序"></a>计数排序</h2><ol>
+<li>统计数组中每个值为 i 的元素出现的次数，存入数组 C 的第 i 项</li>
+<li>反向填充目标数组：将每个元素 i 放在新数组的第 C[i] 项，每放一个元素就将 C[i] 减去 1</li>
+</ol>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">countSort</span>(<span class="params">arr</span>) &#123;</span><br><span class="line">  <span class="keyword">let</span> C = []</span><br><span class="line"></span><br><span class="line">  <span class="keyword">for</span> (<span class="keyword">let</span> i = <span class="number">0</span>; i &lt; arr.<span class="property">length</span>; i++) &#123;</span><br><span class="line">    <span class="keyword">let</span> num = arr[i]</span><br><span class="line">    C[num] &gt;= <span class="number">1</span> ? C[num]++ : (C[num] = <span class="number">1</span>)</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">let</span> sortArr = []</span><br><span class="line"></span><br><span class="line">  <span class="keyword">for</span> (<span class="keyword">let</span> j = <span class="number">0</span>; j &lt; C.<span class="property">length</span>; j++) &#123;</span><br><span class="line">    <span class="keyword">if</span>(C[j])&#123;</span><br><span class="line">      <span class="keyword">while</span>(C[j]&gt;<span class="number">0</span>)&#123;</span><br><span class="line">        sortArr.<span class="title function_">push</span>(j)</span><br><span class="line">        C[j] --</span><br><span class="line">      &#125;</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="keyword">return</span> sortArr</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>排序</category>
+      </categories>
+      <tags>
+        <tag>JS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CSS边框</title>
+    <url>/2020/07/12/css%E8%BE%B9%E6%A1%86/</url>
+    <content><![CDATA[<p>最近发现有小伙伴对我博客里面边框的样式挺好奇，这里专门写一篇博客给大家讲一下这个样式,废话不多说上效果：</p>
+<drawBorder/>
+
+
+<p>在这里就分布介绍一下三种边框的样式：</p>
+<blockquote>
+<p>在此之前 咱们需要给div（你也可以用其他标签，这里我就用div举例子了）添加上通用样式</p>
+</blockquote>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&#x27;draw&#x27;</span>&gt;</span></span><br><span class="line">		draw</span><br><span class="line">	<span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&#x27;draw meet&#x27;</span>&gt;</span></span><br><span class="line">		meet</span><br><span class="line">	<span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&#x27;center&#x27;</span>&gt;</span></span><br><span class="line">		center</span><br><span class="line">	<span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-tag">div</span> &#123;</span><br><span class="line">  <span class="attribute">background</span>: none;</span><br><span class="line">  <span class="attribute">border</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">box-sizing</span>: border-box;</span><br><span class="line">  <span class="attribute">margin</span>: <span class="number">1em</span>;</span><br><span class="line">  <span class="attribute">padding</span>: <span class="number">1em</span> <span class="number">1em</span>;</span><br><span class="line">  <span class="attribute">box-shadow</span>: inset <span class="number">0</span> <span class="number">0</span> <span class="number">0</span> <span class="number">2px</span> <span class="number">#f45e61</span>;</span><br><span class="line">  <span class="attribute">color</span>: <span class="number">#f45e61</span>;</span><br><span class="line">  <span class="attribute">font-size</span>: <span class="number">15px</span>;</span><br><span class="line">  <span class="attribute">font-weight</span>: <span class="number">700</span>;</span><br><span class="line">  <span class="attribute">position</span>: relative;</span><br><span class="line">  <span class="attribute">vertical-align</span>: middle;</span><br><span class="line">  <span class="attribute">text-align</span>: center;</span><br><span class="line">  <span class="attribute">width</span>:<span class="number">100px</span>;</span><br><span class="line">  <span class="attribute">height</span>:<span class="number">50px</span>;</span><br><span class="line">  <span class="attribute">line-height</span>: <span class="number">20px</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-tag">div</span><span class="selector-pseudo">::before</span>, <span class="selector-tag">div</span><span class="selector-pseudo">::after</span> &#123;</span><br><span class="line">  <span class="attribute">box-sizing</span>: inherit;</span><br><span class="line">  <span class="attribute">content</span>: <span class="string">&#x27;&#x27;</span>;</span><br><span class="line">  <span class="attribute">position</span>: absolute;</span><br><span class="line">  <span class="attribute">width</span>: <span class="number">100%</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">100%</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-tag">div</span> &#123;</span><br><span class="line">  <span class="attribute">transition</span>: color <span class="number">0.25s</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-tag">div</span><span class="selector-pseudo">::before</span>, <span class="selector-tag">div</span><span class="selector-pseudo">::after</span> &#123;</span><br><span class="line">  <span class="attribute">border</span>: <span class="number">2px</span> solid transparent;</span><br><span class="line">  <span class="attribute">width</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="1-第一种单向变色"><a href="#1-第一种单向变色" class="headerlink" title="1.第一种单向变色"></a>1.第一种单向变色</h2><figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-class">.draw</span><span class="selector-pseudo">::before</span> &#123;</span><br><span class="line">  <span class="attribute">top</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">left</span>: <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.draw</span><span class="selector-pseudo">::after</span> &#123;</span><br><span class="line">  <span class="attribute">bottom</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">right</span>: <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.draw</span><span class="selector-pseudo">:hover</span> &#123;</span><br><span class="line">  <span class="attribute">color</span>: <span class="number">#60daaa</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.draw</span><span class="selector-pseudo">:hover</span><span class="selector-pseudo">::before</span>, <span class="selector-class">.draw</span><span class="selector-pseudo">:hover</span><span class="selector-pseudo">::after</span> &#123;</span><br><span class="line">  <span class="attribute">width</span>: <span class="number">100%</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">100%</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.draw</span><span class="selector-pseudo">:hover</span><span class="selector-pseudo">::before</span> &#123;</span><br><span class="line">  <span class="attribute">border-top-color</span>: <span class="number">#60daaa</span>;</span><br><span class="line">  <span class="attribute">border-right-color</span>: <span class="number">#60daaa</span>;</span><br><span class="line">  <span class="attribute">transition</span>: width <span class="number">0.25s</span> ease-out, height <span class="number">0.25s</span> ease-out <span class="number">0.25s</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.draw</span><span class="selector-pseudo">:hover</span><span class="selector-pseudo">::after</span> &#123;</span><br><span class="line">  <span class="attribute">border-bottom-color</span>: <span class="number">#60daaa</span>;</span><br><span class="line">  <span class="attribute">border-left-color</span>: <span class="number">#60daaa</span>;</span><br><span class="line">  <span class="attribute">transition</span>: border-color <span class="number">0s</span> ease-out <span class="number">0.5s</span>, width <span class="number">0.25s</span> ease-out <span class="number">0.5s</span>, height <span class="number">0.25s</span> ease-out <span class="number">0.75s</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="2-第二种双向渐变色"><a href="#2-第二种双向渐变色" class="headerlink" title="2.第二种双向渐变色"></a>2.第二种双向渐变色</h2><figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-class">.meet</span><span class="selector-pseudo">:hover</span> &#123;</span><br><span class="line">  <span class="attribute">color</span>: <span class="number">#fbca67</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.meet</span><span class="selector-pseudo">::after</span> &#123;</span><br><span class="line">  <span class="attribute">top</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">left</span>: <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.meet</span><span class="selector-pseudo">:hover</span><span class="selector-pseudo">::before</span> &#123;</span><br><span class="line">  <span class="attribute">border-top-color</span>: <span class="number">#fbca67</span>;</span><br><span class="line">  <span class="attribute">border-right-color</span>: <span class="number">#fbca67</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.meet</span><span class="selector-pseudo">:hover</span><span class="selector-pseudo">::after</span> &#123;</span><br><span class="line">  <span class="attribute">border-bottom-color</span>: <span class="number">#fbca67</span>;</span><br><span class="line">  <span class="attribute">border-left-color</span>: <span class="number">#fbca67</span>;</span><br><span class="line">  <span class="attribute">transition</span>: height <span class="number">0.25s</span> ease-out, width <span class="number">0.25s</span> ease-out <span class="number">0.25s</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h2 id="3-第三种中心展开变色"><a href="#3-第三种中心展开变色" class="headerlink" title="3.第三种中心展开变色"></a>3.第三种中心展开变色</h2><figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-class">.center</span><span class="selector-pseudo">:hover</span> &#123;</span><br><span class="line">  <span class="attribute">color</span>: <span class="number">#6477b9</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.center</span><span class="selector-pseudo">::before</span>, <span class="selector-class">.center</span><span class="selector-pseudo">::after</span> &#123;</span><br><span class="line">  <span class="attribute">top</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">left</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">100%</span>;</span><br><span class="line">  <span class="attribute">width</span>: <span class="number">100%</span>;</span><br><span class="line">  -webkit-<span class="attribute">transform-origin</span>: center;</span><br><span class="line">          <span class="attribute">transform-origin</span>: center;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.center</span><span class="selector-pseudo">::before</span> &#123;</span><br><span class="line">  <span class="attribute">border-top</span>: <span class="number">2px</span> solid <span class="number">#6477b9</span>;</span><br><span class="line">  <span class="attribute">border-bottom</span>: <span class="number">2px</span> solid <span class="number">#6477b9</span>;</span><br><span class="line">  -webkit-<span class="attribute">transform</span>: <span class="built_in">scale3d</span>(<span class="number">0</span>, <span class="number">1</span>, <span class="number">1</span>);</span><br><span class="line">          <span class="attribute">transform</span>: <span class="built_in">scale3d</span>(<span class="number">0</span>, <span class="number">1</span>, <span class="number">1</span>);</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.center</span><span class="selector-pseudo">::after</span> &#123;</span><br><span class="line">  <span class="attribute">border-left</span>: <span class="number">2px</span> solid <span class="number">#6477b9</span>;</span><br><span class="line">  <span class="attribute">border-right</span>: <span class="number">2px</span> solid <span class="number">#6477b9</span>;</span><br><span class="line">  -webkit-<span class="attribute">transform</span>: <span class="built_in">scale3d</span>(<span class="number">1</span>, <span class="number">0</span>, <span class="number">1</span>);</span><br><span class="line">          <span class="attribute">transform</span>: <span class="built_in">scale3d</span>(<span class="number">1</span>, <span class="number">0</span>, <span class="number">1</span>);</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.center</span><span class="selector-pseudo">:hover</span><span class="selector-pseudo">::before</span>, <span class="selector-class">.center</span><span class="selector-pseudo">:hover</span><span class="selector-pseudo">::after</span> &#123;</span><br><span class="line">  -webkit-<span class="attribute">transform</span>: <span class="built_in">scale3d</span>(<span class="number">1</span>, <span class="number">1</span>, <span class="number">1</span>);</span><br><span class="line">          <span class="attribute">transform</span>: <span class="built_in">scale3d</span>(<span class="number">1</span>, <span class="number">1</span>, <span class="number">1</span>);</span><br><span class="line">  <span class="attribute">transition</span>: transform <span class="number">0.5s</span>, -webkit-transform <span class="number">0.5s</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>CSS</category>
+      </categories>
+      <tags>
+        <tag>CSS</tag>
       </tags>
   </entry>
   <entry>
@@ -414,49 +556,6 @@
       </categories>
       <tags>
         <tag>mobile</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>排序</title>
-    <url>/2019/07/11/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</url>
-    <content><![CDATA[<h2 id="冒泡排序"><a href="#冒泡排序" class="headerlink" title="冒泡排序"></a>冒泡排序</h2><p>通过重复地走访过要排序的数列，一次比较两个元素，如果他们的顺序错误就把他们交换过来。走访数列的工作是重复地进行直到没有再需要交换，也就是说该数列已经排序完成</p>
-<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">bubbleSort</span>(<span class="params">arr</span>) &#123;</span><br><span class="line">  <span class="keyword">for</span> (<span class="keyword">let</span> i = <span class="number">0</span>; i &lt; arr.<span class="property">length</span> - <span class="number">1</span>; i++) &#123;</span><br><span class="line">    <span class="keyword">for</span> (<span class="keyword">let</span> j = <span class="number">0</span>; j &lt; arr.<span class="property">length</span> - <span class="number">1</span> - i; j++) &#123;</span><br><span class="line">      <span class="keyword">if</span> (arr[j] &gt; arr[j + <span class="number">1</span>]) &#123;</span><br><span class="line">        <span class="keyword">let</span> temp = arr[j]</span><br><span class="line">        arr[j] = arr[j + <span class="number">1</span>]</span><br><span class="line">        arr[j + <span class="number">1</span>] = temp</span><br><span class="line">      &#125;</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="keyword">return</span> arr</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h2 id="插入排序"><a href="#插入排序" class="headerlink" title="插入排序"></a>插入排序</h2><p>通过构建有序序列，对于未排序数据，在已排序序列中从后向前扫描，找到相应位置并插入</p>
-<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">insertion</span>(<span class="params">arr</span>) &#123;</span><br><span class="line">  <span class="keyword">for</span> (<span class="keyword">let</span> i = <span class="number">1</span>; i &lt; arr.<span class="property">length</span>; i++) &#123;</span><br><span class="line">    <span class="keyword">for</span> (<span class="keyword">let</span> j = <span class="number">0</span>; j &lt; i; j++) &#123;</span><br><span class="line">      <span class="keyword">if</span> (arr[j] &gt; arr[i]) &#123;</span><br><span class="line">        arr.<span class="title function_">splice</span>(j, <span class="number">0</span>, arr[i])</span><br><span class="line">        arr.<span class="title function_">splice</span>(i + <span class="number">1</span>, <span class="number">1</span>)</span><br><span class="line">        <span class="keyword">break</span></span><br><span class="line">      &#125;</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="keyword">return</span> arr</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h2 id="快速排序"><a href="#快速排序" class="headerlink" title="快速排序"></a>快速排序</h2><ol>
-<li>在数据集之中，选择一个元素作为”基准”（pivot）。</li>
-<li>所有小于”基准”的元素，都移到”基准”的左边；所有大于”基准”的元素，都移到”基准”的右边。</li>
-<li>对”基准”左边和右边的两个子集，不断重复第一步和第二步，直到所有子集只剩下一个元素为止。</li>
-</ol>
-<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">quickSort</span>(<span class="params">arr</span>) &#123;</span><br><span class="line">  <span class="keyword">if</span> (arr.<span class="property">length</span> &lt; <span class="number">2</span>) <span class="keyword">return</span> arr</span><br><span class="line"></span><br><span class="line">  <span class="keyword">const</span> pivot = arr[<span class="number">0</span>]</span><br><span class="line">  <span class="keyword">const</span> left = []</span><br><span class="line">  <span class="keyword">const</span> right = []</span><br><span class="line"></span><br><span class="line">  <span class="keyword">for</span> (<span class="keyword">let</span> i = <span class="number">1</span>; i &lt; arr.<span class="property">length</span>; i++) &#123;</span><br><span class="line">    arr[i] &gt;= pivot &amp;&amp; right.<span class="title function_">push</span>(arr[i])</span><br><span class="line">    arr[i] &lt; pivot &amp;&amp; left.<span class="title function_">push</span>(arr[i])</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">return</span> <span class="title function_">quickSort</span>(left).<span class="title function_">concat</span>(pivot, <span class="title function_">quickSort</span>(right))</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>上面的版本缺点是需要额外的存储器配置，以下为原地（in-place）分割方法</p>
-</blockquote>
-<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">quickSort</span>(<span class="params">arr, left, right</span>) &#123;</span><br><span class="line">  <span class="keyword">let</span> len = arr.<span class="property">length</span></span><br><span class="line">  <span class="keyword">let</span> partitionIndex</span><br><span class="line">  left = <span class="keyword">typeof</span> left !== <span class="string">&#x27;number&#x27;</span> ? <span class="number">0</span> : left</span><br><span class="line">  right = <span class="keyword">typeof</span> right !== <span class="string">&#x27;number&#x27;</span> ? len - <span class="number">1</span> : right</span><br><span class="line"></span><br><span class="line">  <span class="keyword">if</span> (left &lt; right) &#123;</span><br><span class="line">    partitionIndex = <span class="title function_">partition</span>(arr, left, right)</span><br><span class="line"></span><br><span class="line">    <span class="title function_">quickSort</span>(arr, left, partitionIndex - <span class="number">1</span>)</span><br><span class="line"></span><br><span class="line">    <span class="title function_">quickSort</span>(arr, partitionIndex + <span class="number">1</span>, right)</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">return</span> arr</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">function</span> <span class="title function_">partition</span>(<span class="params">arr, left, right</span>) &#123;</span><br><span class="line">  <span class="keyword">let</span> pivot = left</span><br><span class="line">  <span class="keyword">let</span> index = pivot + <span class="number">1</span></span><br><span class="line"></span><br><span class="line">  <span class="keyword">for</span> (<span class="keyword">var</span> i = index; i &lt;= right; i++) &#123;</span><br><span class="line">    <span class="keyword">if</span> (arr[i] &lt; arr[pivot]) &#123;</span><br><span class="line">      <span class="title function_">swap</span>(arr, i, index)</span><br><span class="line">      index++</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="title function_">swap</span>(arr, pivot, index - <span class="number">1</span>)</span><br><span class="line"></span><br><span class="line">  <span class="keyword">return</span> index - <span class="number">1</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">function</span> <span class="title function_">swap</span>(<span class="params">arr, i, j</span>) &#123;</span><br><span class="line">  <span class="keyword">var</span> temp = arr[i]</span><br><span class="line">  arr[i] = arr[j]</span><br><span class="line">  arr[j] = temp</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h2 id="选择排序"><a href="#选择排序" class="headerlink" title="选择排序"></a>选择排序</h2><p>首先在未排序序列中找到最小（大）元素，存放到排序序列的起始位置，然后，再从剩余未排序元素中继续寻找最小（大）元素，然后放到已排序序列的末尾。以此类推，直到所有元素均排序完毕</p>
-<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">selectionSort</span>(<span class="params">arr</span>) &#123;</span><br><span class="line">  <span class="keyword">for</span> (<span class="keyword">let</span> i = <span class="number">0</span>; i &lt; arr.<span class="property">length</span> - <span class="number">1</span>; i++) &#123;</span><br><span class="line">    <span class="keyword">let</span> min = i</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span> (<span class="keyword">let</span> j = i + <span class="number">1</span>; j &lt; arr.<span class="property">length</span>; j++) &#123;</span><br><span class="line">      <span class="keyword">if</span> (arr[min] &gt; arr[j]) &#123;</span><br><span class="line">        min = j</span><br><span class="line">      &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">let</span> temp = arr[min]</span><br><span class="line">    arr[min] = arr[i]</span><br><span class="line">    arr[i] = temp</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">return</span> arr</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h2 id="归并排序"><a href="#归并排序" class="headerlink" title="归并排序"></a>归并排序</h2><h1 id="递归法"><a href="#递归法" class="headerlink" title="递归法"></a>递归法</h1><ol>
-<li>把 n 个元素看成 n 个长度为 l 的有序子表</li>
-<li>进行两两归并使记录关键字有序，得到 n&#x2F;2 个长度为 2 的有序子表</li>
-<li>重复第 2 步直到所有记录归并成一个长度为 n 的有序表为止</li>
-</ol>
-<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">mergeSort</span>(<span class="params">arr</span>) &#123;</span><br><span class="line">  <span class="keyword">if</span> (arr.<span class="property">length</span> &lt; <span class="number">2</span>) <span class="keyword">return</span> arr</span><br><span class="line"></span><br><span class="line">  <span class="keyword">function</span> <span class="title function_">merge</span>(<span class="params">left, right</span>) &#123;</span><br><span class="line">    <span class="keyword">let</span> final = []</span><br><span class="line"></span><br><span class="line">    <span class="keyword">while</span> (left.<span class="property">length</span> &amp;&amp; right.<span class="property">length</span>) &#123;</span><br><span class="line">      final.<span class="title function_">push</span>(left[<span class="number">0</span>] &lt;= right[<span class="number">0</span>] ? left.<span class="title function_">shift</span>() : right.<span class="title function_">shift</span>())</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> final.<span class="title function_">concat</span>(left, right)</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">let</span> mid = <span class="title class_">Math</span>.<span class="title function_">floor</span>(arr.<span class="property">length</span> / <span class="number">2</span>)</span><br><span class="line"></span><br><span class="line">  <span class="keyword">return</span> <span class="title function_">merge</span>(<span class="title function_">mergeSort</span>(arr.<span class="title function_">slice</span>(<span class="number">0</span>, mid)), <span class="title function_">mergeSort</span>(arr.<span class="title function_">slice</span>(mid)))</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h2 id="计数排序"><a href="#计数排序" class="headerlink" title="计数排序"></a>计数排序</h2><ol>
-<li>统计数组中每个值为 i 的元素出现的次数，存入数组 C 的第 i 项</li>
-<li>反向填充目标数组：将每个元素 i 放在新数组的第 C[i] 项，每放一个元素就将 C[i] 减去 1</li>
-</ol>
-<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">countSort</span>(<span class="params">arr</span>) &#123;</span><br><span class="line">  <span class="keyword">let</span> C = []</span><br><span class="line"></span><br><span class="line">  <span class="keyword">for</span> (<span class="keyword">let</span> i = <span class="number">0</span>; i &lt; arr.<span class="property">length</span>; i++) &#123;</span><br><span class="line">    <span class="keyword">let</span> num = arr[i]</span><br><span class="line">    C[num] &gt;= <span class="number">1</span> ? C[num]++ : (C[num] = <span class="number">1</span>)</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">let</span> sortArr = []</span><br><span class="line"></span><br><span class="line">  <span class="keyword">for</span> (<span class="keyword">let</span> j = <span class="number">0</span>; j &lt; C.<span class="property">length</span>; j++) &#123;</span><br><span class="line">    <span class="keyword">if</span>(C[j])&#123;</span><br><span class="line">      <span class="keyword">while</span>(C[j]&gt;<span class="number">0</span>)&#123;</span><br><span class="line">        sortArr.<span class="title function_">push</span>(j)</span><br><span class="line">        C[j] --</span><br><span class="line">      &#125;</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="keyword">return</span> sortArr</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>排序</category>
-      </categories>
-      <tags>
-        <tag>JS</tag>
       </tags>
   </entry>
 </search>
